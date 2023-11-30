@@ -1,2 +1,2 @@
-# Singleton
-Wzorzec projektowy Singleton
+# Polecenie
+Wzorzec projektowy Polecenie
